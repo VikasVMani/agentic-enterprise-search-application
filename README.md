@@ -1,4 +1,4 @@
-# 🧠 Agentic Enterprise Search System (Hybrid RAG)
+# 🧠 Agentic Enterprise Search System
 
 This repository contains a **working MVP of an agentic, context-aware enterprise search system** built as part of the **Lyzr.ai AI Engineer assignment**.
 
