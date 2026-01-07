@@ -100,7 +100,7 @@ flowchart TD
 ### 1️⃣ Install Dependencies
 
 ```bash
-pip install gradio chromadb sentence-transformers rank-bm25 langgraph langchain python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 2️⃣ Set LLM API Key
@@ -108,8 +108,6 @@ pip install gradio chromadb sentence-transformers rank-bm25 langgraph langchain 
 Create a `.env` file:
 
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
-# OR
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
