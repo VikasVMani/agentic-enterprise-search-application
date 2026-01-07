@@ -160,4 +160,4 @@ http://127.0.0.1:7860
 
 ## ✅ Conclusion
 
-This project demonstrates how **agentic architectures** can power intelligent, trustworthy, and context-aware enterprise search systems — aligning closely with modern AI-first enterprise platforms like **Lyzr.ai**.
+This project demonstrates how **agentic architectures** can power intelligent, trustworthy, and context-aware enterprise search systems — aligning closely with modern AI-first enterprise platforms
